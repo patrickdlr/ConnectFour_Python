@@ -10,12 +10,12 @@ How to use ConnectFour_Python:
 <div class="row">
   <div class="column">
     <img src="https://user-images.githubusercontent.com/59127562/115183635-046ebb80-a091-11eb-9c19-8ec14427e5da.PNG" alt="prompt" width="320" height="400">
-    <img src="https://user-images.githubusercontent.com/59127562/115183642-06d11580-a091-11eb-8302-4aff62314c1b.PNG" alt="game play" width="320" height="345">
+    <img src="https://user-images.githubusercontent.com/59127562/115184277-55cb7a80-a092-11eb-87f9-d0a26298ed99.PNG" alt="game play" width="320" height="336">
     <img src="https://user-images.githubusercontent.com/59127562/115183900-8fe84c80-a091-11eb-863f-b12de05e2810.PNG" alt="game play" width="320" height="336">
   </div>
 </div>
 
 
 <!--<img src="https://user-images.githubusercontent.com/59127562/115183635-046ebb80-a091-11eb-9c19-8ec14427e5da.PNG" alt="prompt" width="443" height="553">
-    <img src="https://user-images.githubusercontent.com/59127562/115183642-06d11580-a091-11eb-8302-4aff62314c1b.PNG" alt="game play" width="445" height="480">
+    <img src="https://user-images.githubusercontent.com/59127562/115184277-55cb7a80-a092-11eb-87f9-d0a26298ed99.PNG" alt="game play" width="445" height="480">
     <img src="https://user-images.githubusercontent.com/59127562/115183900-8fe84c80-a091-11eb-863f-b12de05e2810.PNG" alt="game play" width="1105" height="1161">-->
